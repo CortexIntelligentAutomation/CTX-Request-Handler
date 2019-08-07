@@ -20,8 +20,8 @@ The queues that control the incoming requests can be configured in a variety of 
 		* Even for throttle management cases the queue maximum available slots needs to be defined. If there is no limit, the maximum can be configured with a theorical non-reachable simultaneals request number (example: 10000). As for the traffic example, the maximum slots can be set to 0 to block the execution of requests.
 		
 * Sequence management
-Queues also support sequence management, which means that specific requests only run if a previous request execution has finished.
-This feature is independent of the queue the request belongs to, so each request in a sequencing scenario can belong to a different queue. The execution of each request will still satisfy both the sequence and queue requirements.
+	* Queues also support sequence management, which means that specific requests only run if a previous request execution has finished.
+	* This feature is independent of the queue the request belongs to, so each request in a sequencing scenario can belong to a different queue. The execution of each request will still satisfy both the sequence and queue requirements.
 
 
 ## Table of Contents
