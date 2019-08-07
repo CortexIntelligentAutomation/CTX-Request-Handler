@@ -46,15 +46,15 @@ The CTX-Request-Handler module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Request-Handler module requires the following files:
-* [CTX-Request-Handler Studio Package]()
-* [Cortex-RequestHandler Database Install Script]()
+* [CTX-Request-Handler Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Request-Handler/releases/download/v1.0/CTX-Request-Handler.studiopkg)
+* [Cortex-RequestHandler Database Install Script](https://github.com/CortexIntelligentAutomation/CTX-Request-Handler/releases/download/v1.0/Cortex-RequestHandler-Install.sql)
 
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan]().
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Request-Handler/blob/master/CTX-Request-Handler%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the module, available [here](). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIntelligentAutomation/CTX-Request-Handler/blob/master/CTX-Request-Handler%20-%20Deployment%20Plan.pdf). Configuration of each flow/subtask's inputs and outputs are detailed in notes on the flow/subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
